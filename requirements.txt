@@ -1,0 +1,8 @@
+python-dotenv
+flask
+flask-wtf
+bootstrap-flask
+beautifulsoup4
+requests
+fake-useragent
+gunicorn

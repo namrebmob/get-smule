@@ -1,0 +1,5 @@
+Dockerfile
+requirements-dev.txt
+__pycache__
+.env
+.flaskenv
